@@ -64,7 +64,7 @@ $ python2 SMBF.py
 
 ## Screenshot
 * Note! Bila akunya cp simpan saja 1/5 hari nanti kebuka sendiri..
-<img src="https://github.com/RizkyFerdiansyah/SMBF/blob/main/Screenshot.png" />
+<img src="https://github.com/RizkyFerdiansyah/SMBF/blob/main/IMG_16114660952369861.png" />
 
 # Turtorial cara dapatkan cokies fb
 Download file [Get Cookie For FPlus](https://www.mediafire.com/file/ci1vwifnxh00jru/embffhododclmgpnabmjmgoekpnoboic-3.3.12-Crx4Chrome.com.crx/file) dan upload ke [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dkiwi+browser)
