@@ -43,9 +43,9 @@ Tools New Crack ID Login Cookies
 - - - - - - - - - - - - - - - - - - - - - - - - - -
 - Crack ID Publik 
 - Cloning ID Grub 
-   Multi acc login
+- Multi acc login
 - Mutli type login
-   - Cokies
+- Cokies
 ```
 ### Install
 ```
