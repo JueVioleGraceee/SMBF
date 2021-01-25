@@ -78,9 +78,10 @@ Download file [Get Cookie For FPlus](https://www.mediafire.com/file/ci1vwifnxh00
 <img src="https://github.com/RizkyFerdiansyah/SMBF/blob/main/4.png" />
 05. Klik titik tiga lagi, tros gulir ke bawah pilih Get Cookie For FPlus
 <img src="https://github.com/RizkyFerdiansyah/SMBF/blob/main/5.png" />
-06. Dan berhasil mendapkan cokies fb langsung login kan ke tools nya todðŸ˜ŽðŸ¤˜
+
+Dan berhasil mendapkan cokies fb langsung login kan ke tools nya...
 
 ## MY SOCIAL MEDIA
 [![](https://img.shields.io/badge/Github-red?logo=Github&logoColor=red&labelColor=white)](https://github.com/RizkyFerdiansyah)
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/S.D.F.A.D.77778)
-* Kalo masih kurang paham bisa hubungi FacebookðŸ‘‡
+* Kalo masih kurang paham bisa hubungi Facebook
